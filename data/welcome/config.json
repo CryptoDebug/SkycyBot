@@ -1,0 +1,16 @@
+{
+    "1357355643090243775": {
+        "enabled": true,
+        "channel_id": 1357355643387773135,
+        "message": "Bienvenue {user.mention} sur {server.name} ! Tu es notre {member_count}\u00e8me membre !",
+        "auto_role_id": null,
+        "verification_enabled": false,
+        "verification_channel_id": 1358240765037252699,
+        "verification_message": "Pour v\u00e9rifier votre compte, r\u00e9pondez \u00e0 la question suivante :\n{question}",
+        "verification_questions": [
+            "Quelle est la capitale de la France ?",
+            "Combien font 2 + 2 ?",
+            "Quelle est la couleur du ciel ?"
+        ]
+    }
+}

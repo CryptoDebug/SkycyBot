@@ -1,0 +1,17 @@
+{
+    "guilds": {
+        "1357355643090243775": {
+            "enabled": false,
+            "channels": {
+                "messages": null,
+                "moderation": null,
+                "administration": null
+            },
+            "filters": {
+                "ignored_channels": [],
+                "ignored_users": [],
+                "ignored_roles": []
+            }
+        }
+    }
+}

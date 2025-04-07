@@ -1,0 +1,24 @@
+{
+    "1357355643090243775": {
+        "messages": {
+            "users": {},
+            "total": 0
+        },
+        "voice_time": {
+            "users": {
+                "1357251124960432128": 1743895235.187151
+            },
+            "total": 1743895235.187151
+        },
+        "joins": [],
+        "leaves": [],
+        "commands": {
+            "users": {},
+            "total": 0
+        },
+        "reactions": {
+            "users": {},
+            "total": 0
+        }
+    }
+}
