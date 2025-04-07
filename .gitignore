@@ -27,6 +27,7 @@ wheels/
 
 # Fichiers de configuration et secrets
 .env
+config.json
 
 # Logs
 logs/
